@@ -1,0 +1,431 @@
+{
+  "1": [
+    "ARI_P,ARI_P_03"
+  ],
+  "2": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04"
+  ],
+  "3": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01"
+  ],
+  "4": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02"
+  ],
+  "5": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06"
+  ],
+  "6": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07"
+  ],
+  "7": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "8": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "9": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "10": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "11": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "12": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "13": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "14": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "15": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "16": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "17": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "18": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "19": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "20": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "21": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "22": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "23": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "24": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "25": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "26": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "27": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "28": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "29": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "30": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "31": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "32": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "33": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "34": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "35": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "36": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "37": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "38": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "39": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "40": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "41": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "42": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "43": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "44": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "45": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "46": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "47": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "48": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "49": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ],
+  "50": [
+    "ARI_P,ARI_P_03",
+    "ARI_P,ARI_P_04",
+    "ARI_P,ARI_P_01",
+    "ARI_P,ARI_P_02",
+    "ARI_P,ARI_P_06",
+    "ARI_P,ARI_P_07",
+    "ARI_P,ARI_P_05"
+  ]
+}

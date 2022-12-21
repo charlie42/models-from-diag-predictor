@@ -1,0 +1,5 @@
+{
+  "New Diag: Specific Learning Disorder with Impairment in Reading": 26,
+  "New Diag: Specific Learning Disorder with Impairment in Mathematics": 42,
+  "New Diag: Borderline Intellectual Functioning": 12
+}
