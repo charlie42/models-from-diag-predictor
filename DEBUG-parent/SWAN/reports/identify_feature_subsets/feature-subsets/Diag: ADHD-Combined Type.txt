@@ -1,0 +1,516 @@
+{
+  "1": [
+    "SWAN,SWAN_11"
+  ],
+  "2": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16"
+  ],
+  "3": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14"
+  ],
+  "4": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18"
+  ],
+  "5": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10"
+  ],
+  "6": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17"
+  ],
+  "7": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13"
+  ],
+  "8": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15"
+  ],
+  "9": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "10": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "11": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "12": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "13": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "14": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "15": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "16": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "17": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "18": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "19": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "20": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "21": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "22": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "23": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "24": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "25": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "26": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "27": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "28": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "29": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "30": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "31": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "32": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "33": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "34": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "35": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "36": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "37": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "38": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "39": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "40": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "41": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "42": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "43": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "44": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "45": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "46": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "47": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "48": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "49": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ],
+  "50": [
+    "SWAN,SWAN_11",
+    "SWAN,SWAN_16",
+    "SWAN,SWAN_14",
+    "SWAN,SWAN_18",
+    "SWAN,SWAN_10",
+    "SWAN,SWAN_17",
+    "SWAN,SWAN_13",
+    "SWAN,SWAN_15",
+    "SWAN,SWAN_05"
+  ]
+}
