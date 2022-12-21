@@ -1,0 +1,474 @@
+{
+  "1": [
+    "SDQ,SDQ_29_c"
+  ],
+  "2": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20"
+  ],
+  "3": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25"
+  ],
+  "4": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02"
+  ],
+  "5": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09"
+  ],
+  "6": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15"
+  ],
+  "7": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10"
+  ],
+  "8": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "9": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "10": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "11": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "12": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "13": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "14": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "15": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "16": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "17": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "18": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "19": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "20": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "21": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "22": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "23": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "24": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "25": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "26": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "27": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "28": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "29": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "30": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "31": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "32": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "33": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "34": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "35": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "36": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "37": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "38": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "39": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "40": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "41": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "42": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "43": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "44": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "45": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "46": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "47": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "48": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "49": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ],
+  "50": [
+    "SDQ,SDQ_29_c",
+    "SDQ,SDQ_20",
+    "SDQ,SDQ_25",
+    "SDQ,SDQ_02",
+    "SDQ,SDQ_09",
+    "SDQ,SDQ_15",
+    "SDQ,SDQ_10",
+    "SDQ,SDQ_07"
+  ]
+}
