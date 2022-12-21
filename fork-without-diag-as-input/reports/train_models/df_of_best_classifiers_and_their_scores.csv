@@ -1,0 +1,28 @@
+,Diag,Model type,Best classifier,Best score,SD of best score,Number of positive examples,Score - SD
+0,New Diag: Specific Learning Disorder with Impairment in Reading,logisticregression,"Pipeline(steps=[('simpleimputer', SimpleImputer(strategy='median')),
+                ('standardscaler', StandardScaler()),
+                ('logisticregression',
+                 LogisticRegression(C=0.00943654084982388,
+                                    class_weight='balanced',
+                                    l1_ratio=0.24315089860209593,
+                                    penalty='elasticnet', solver='saga'))])",0.8194820332249909,0.041845304575455704,371,0.7776367286495353
+1,New Diag: Specific Learning Disorder with Impairment in Mathematics,logisticregression,"Pipeline(steps=[('simpleimputer', SimpleImputer(strategy='median')),
+                ('standardscaler', StandardScaler()),
+                ('logisticregression',
+                 LogisticRegression(C=0.011994507891817028,
+                                    l1_ratio=0.13087165957103264,
+                                    penalty='elasticnet', solver='saga'))])",0.7630897435897436,0.05431493741168725,364,0.7087748061780563
+2,New Diag: Intellectual Disability-Mild,randomforestclassifier,"Pipeline(steps=[('simpleimputer', SimpleImputer(strategy='median')),
+                ('standardscaler', StandardScaler()),
+                ('randomforestclassifier',
+                 RandomForestClassifier(class_weight='balanced',
+                                        criterion='entropy', max_depth=130,
+                                        max_features=0.25, min_samples_leaf=5,
+                                        min_samples_split=10,
+                                        n_estimators=400))])",0.9165093800045756,0.06901854435994499,51,0.8474908356446306
+3,New Diag: Borderline Intellectual Functioning,logisticregression,"Pipeline(steps=[('simpleimputer', SimpleImputer(strategy='median')),
+                ('standardscaler', StandardScaler()),
+                ('logisticregression',
+                 LogisticRegression(C=0.022000315503658833,
+                                    l1_ratio=0.6080587799897286,
+                                    penalty='elasticnet', solver='saga'))])",0.8754185671091068,0.031262874547447736,274,0.8441556925616591
